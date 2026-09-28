@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ie491_codes.iml" filepath="$PROJECT_DIR$/.idea/ie491_codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ie491_codes_broke/.idea/ie491_codes.iml" filepath="$PROJECT_DIR$/../ie491_codes_broke/.idea/ie491_codes.iml" />
     </modules>
   </component>
 </project>
